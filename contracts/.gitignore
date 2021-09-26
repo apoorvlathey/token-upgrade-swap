@@ -1,0 +1,16 @@
+# General Node
+node_modules
+.env
+
+# Hardhat
+abi
+artifacts
+cache
+typechain
+
+# Graph protocol
+generated
+build
+
+# tenderly
+tenderly.yaml
